@@ -13,6 +13,7 @@ namespace OOP1
             Console.WriteLine(product.ProductName + " güncelendi.");
         }
 
+
     }
 }
 /// ürünle ilgili operasyonların barındığı alan
