@@ -28,9 +28,10 @@ namespace GenericsIntro
 
         }
 
-        public int asd()
+        public int Count
         {
-            get { return items };
+            get { return items.Length; }
         }
+       
     }
 }

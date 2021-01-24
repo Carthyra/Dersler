@@ -8,11 +8,9 @@ namespace GenericsIntro
         {
             MyList<string> isimler = new MyList<string>();
             isimler.Add("Engin");
-            Console.WriteLine(isimler.asd);
+            Console.WriteLine(isimler.Count);
             isimler.Add("Ulaş");
-            Console.WriteLine(isimler.asd);
-            
-
+            Console.WriteLine(isimler.Count);
             
         }
     }
