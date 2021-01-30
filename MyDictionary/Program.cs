@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace MyDictionary
 {
@@ -15,6 +16,7 @@ namespace MyDictionary
             Console.WriteLine(myDictionary.Count);
             myDictionary.Add(4, "Pofuduk");
             Console.WriteLine(myDictionary.Count);
+
         }
     }
 }
