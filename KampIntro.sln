@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMeto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{89745502-B7F5-4915-BD3B-BC9B9E07293F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Game", "HW_Game\HW_Game.csproj", "{61380358-7D9C-42D0-9F01-D80DCB262EE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{89745502-B7F5-4915-BD3B-BC9B9E07293F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89745502-B7F5-4915-BD3B-BC9B9E07293F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89745502-B7F5-4915-BD3B-BC9B9E07293F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61380358-7D9C-42D0-9F01-D80DCB262EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61380358-7D9C-42D0-9F01-D80DCB262EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61380358-7D9C-42D0-9F01-D80DCB262EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61380358-7D9C-42D0-9F01-D80DCB262EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
